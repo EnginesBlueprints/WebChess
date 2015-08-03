@@ -1,0 +1,2 @@
+ReadMe for Engines WebChess
+Web Chess allows you to play chess with other users across the internet or sitting at the same screen. It only permits valid moves and can automatically detect check and checkmate status.
